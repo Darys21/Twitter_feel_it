@@ -61,3 +61,5 @@ for tweet, prediction in zip(new_tweets, predictions):
         print("Sentiment: Negative")
     else:
         print("Sentiment: Positive")
+
+
